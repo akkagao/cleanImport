@@ -1,0 +1,7 @@
+/.vscode
+/.idea
+/template
+debug
+*.exe
+*.exe~
+
